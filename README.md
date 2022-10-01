@@ -1,2 +1,2 @@
 "Shantelle's User Page"
-"My favorite coding language is Java"
+"My favorite coding language is Java!"
