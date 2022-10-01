@@ -29,6 +29,6 @@ In my free time, I pursue my passion for the performing and visual arts. I'm a p
 ## My Contacts
 - sserafin@ucsd.edu
 - [LinkedIn](https://www.linkedin.com/in/shantellemeganserafin/)
-- [Resume](Resume_Serafin.pdf)
+- [Resume](/Resume_Serafin.pdf)
 
 > "With God all things are possible" Matthew 19:26 
