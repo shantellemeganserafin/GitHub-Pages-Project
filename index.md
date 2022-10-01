@@ -1,4 +1,4 @@
-# Hi! I'm Shantelle Megan
+# Hi! I'm Shantelle Megan :) <3
 
 ![Selfie Image](https://cdn.myportfolio.com/3aee7b80-0f9b-44e9-80e2-e47954290ede/8fad25be-d64c-465a-ae81-944395ff7439_rw_1920.jpg?h=76545c7d32d5deff06aa4dd700e79cee)
 
@@ -24,7 +24,7 @@ In my free time, I pursue my passion for the performing and visual arts. I'm a p
     - [] Get my Personal Trainer Certification
 
 ## My Mindset
-**I always show up ready to get better than the day before.** In all aspects of my life, I focus on small and consistent hard work for long-term improvement. I genuinely believe there is nothing I can't accomplish with a good learning attitude and supportive environment. I feel extremely privileged to pursue my passions. 
+**I always show up ready to get better than the day before.** In all aspects of my life, I focus on small and consistent hard work for long-term improvement. I genuinely believe there is nothing I can't accomplish with a good learning attitude and supportive environment. I feel extremely privileged to pursue my passions.
 
 ## My Contacts
 - sserafin@ucsd.edu
