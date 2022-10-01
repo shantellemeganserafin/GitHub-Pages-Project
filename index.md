@@ -3,8 +3,6 @@
 ![Selfie Image](https://cdn.myportfolio.com/3aee7b80-0f9b-44e9-80e2-e47954290ede/8fad25be-d64c-465a-ae81-944395ff7439_rw_1920.jpg?h=76545c7d32d5deff06aa4dd700e79cee)
 
 ## Jump Ahead:
-- [Hi! I'm Shantelle Megan](#hi-im-shantelle-megan)
-  - [Jump Ahead:](#jump-ahead)
   - [My Professional Pursuits](#my-professional-pursuits)
   - [My Personal Pursuits](#my-personal-pursuits)
   - [My Mindset](#my-mindset)
